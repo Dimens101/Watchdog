@@ -72,7 +72,7 @@
   - Full removal of the Server files and Watchdog files
 
 
- ![Watchdog Example](https://raw.githubusercontent.com/Dimens101/PG-Installerscript/main/Capture1.JPG)
+ ![Watchdog Example](https://raw.githubusercontent.com/Dimens101/Watchdog/main/Capture1.JPG)
  
  Example:
 ***
