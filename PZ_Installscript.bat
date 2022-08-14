@@ -15,7 +15,7 @@ Set AutoUpdateConfig=Yes
 :: 	Set to Yes if you want to open the Console log Folders Minimized when watchdog starts..
 Set OpenFolders=No
 :: 	Set to Yes if you want to autodownload mods, set to No if you want to handle Mod files yourself.
-Set AutoDownloadMods=Yes
+Set AutoDownloadMods=No
 :: 	Annonymous logon is not allowed for downloading MODS -If no mods are used Login data is not required.
 set SteamUser=
 set SteamPassword=
